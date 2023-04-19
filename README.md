@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Roo rabab</h1>
-<p align="left"> <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdna.artstation.com%2Fp%2Fassets%2Fimages%2Fimages%2F042%2F631%2F286%2Foriginal%2Fbryan-rodriguez-belchibia-1-rightspeed.gif%3F1635037562&tbnid=oA1zpimgtB5PFM&vet=12ahUKEwi449quuLb-AhXfpycCHe9mARYQMyg_egQIARB-..i&imgrefurl=https%3A%2F%2Fwww.artstation.com%2Fartwork%2FWK41JQ&docid=kYgxF-tscSg72M&w=1024&h=1024&q=animation%20coding%20gif&ved=2ahUKEwi449quuLb-AhXfpycCHe9mARYQMyg_egQIARB-">
+<p align="left"> 
+<img align="right" alt="Coding" width="400" src="https://cdna.artstation.com/p/assets/images/images/042/631/286/original/bryan-rodriguez-belchibia-1-rightspeed.gif?1635037562">
 - 🌱 I’m currently learning **React Native**
 
 - 💬 Ask me about **anything**
